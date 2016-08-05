@@ -1,0 +1,15 @@
+<?php
+//namespace phpreboot\tdddevelopment;
+namespace phpreboot\tddworkshop;
+
+class Calculator
+{
+
+    public function add()
+    {
+
+    }
+
+}
+
+
